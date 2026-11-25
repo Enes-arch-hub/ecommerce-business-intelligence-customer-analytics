@@ -3,7 +3,6 @@
 
 ## Project Overview
 
-
 This is an end-to-end data analytics and business intelligence project using the Brazilian E-Commerce Public Dataset by Olist.
 
 The project explores e-commerce business performance through data cleaning, SQL analytics, customer behaviour analysis, product performance, and interactive Power BI dashboards.
