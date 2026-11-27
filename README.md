@@ -1,7 +1,6 @@
 
 # E-Commerce Business Intelligence & Customer Analytics
 
-
 ## Project Overview
 
 This is an end-to-end data analytics and business intelligence project using the Brazilian E-Commerce Public Dataset by Olist.
